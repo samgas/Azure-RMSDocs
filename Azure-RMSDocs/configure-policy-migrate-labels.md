@@ -213,9 +213,9 @@ To confirm whether the clients and services you use support unified labeling, re
 
 - Office Online (in preview) and Outlook on the web
 
-- Microsoft SharePoint, OneDrive for work or school, OneDrive for home, Teams, and Office 365 groups (in preview)
+- Microsoft SharePoint, OneDrive for work or school, OneDrive for home, Teams, and Office 365 groups
     
-    For more information, see [Use sensitivity labels with Microsoft Teams, Office 365 groups, and SharePoint sites (public preview)](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites) and [Enable sensitivity labels for Office files in SharePoint and OneDrive](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files).
+    For more information, see [Use sensitivity labels with Microsoft Teams, Office 365 groups, and SharePoint sites (https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites) and [Enable sensitivity labels for Office files in SharePoint and OneDrive](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files).
 
 - Microsoft Defender Advanced Threat Protection
 
